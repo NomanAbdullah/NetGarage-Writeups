@@ -19,7 +19,7 @@ Now, use strings command to figure out more about this file.
 
 So, there are 3 digit passcode to enter into level02.
 
-Let's do the reverse engineering usng **gdb** tool
+Let's do the reverse engineering using **gdb** tool.
 
 ![reverse engineer](./image/gdb.png)
 
